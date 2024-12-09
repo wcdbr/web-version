@@ -1,0 +1,29 @@
+/* Reset:
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header:
+*/
+.nutricia-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #DDF7FF;
+}
+.milnutri-logo{
+    padding: 10px 0;
+    margin-top: 7px;
+    padding-left: 8px;
+    background-color: #C0F1FF;
+}
+.nutricia-logo img{
+    width: 160px;
+}
+.milnutri-logo img{
+    height: 60px;
+}
